@@ -1,0 +1,90 @@
+export const projects = [
+  {
+    id: 'nightmarebefore',
+    name: 'Nightmare Before AI',
+    tagline: 'An evolving fan-series through the warped holidays of imagination. Claymation chaos, AI animation, holiday nightmares.',
+    status: 'live',
+    url: '#', // UPDATE after deploy: nightmarebefore-com.vercel.app
+    color: '#C41A1A',
+  },
+  {
+    id: 'glyphgirl',
+    name: 'GlyphGirl.tv',
+    tagline: 'Decode the signal. Anchor the frequency. Sci-fi ARG spanning glyphs, factions, timelines, and soul coherence.',
+    status: 'live',
+    url: '#', // UPDATE after deploy: glyphgirl-tv.vercel.app
+    color: '#008B8B',
+  },
+  {
+    id: 'kingfall',
+    name: 'Kingfall',
+    tagline: 'Official rules for the 5v5 knockdown combat sport governed by the International Kingfall Association.',
+    status: 'live',
+    url: '#', // UPDATE after deploy: kingfall-rules.vercel.app
+    color: '#C8952A',
+  },
+  {
+    id: 'protacone',
+    name: 'ProtacOne Security',
+    tagline: 'Professional roving and on-site security services in King County. Trusted protection by Bryan Selymes.',
+    status: 'live',
+    url: '#', // UPDATE after deploy: protacone-security.vercel.app
+    color: '#4A7AC8',
+  },
+  {
+    id: 'starforge',
+    name: 'StarForge',
+    tagline: 'Forged for battle. Designed to move. High-performance combat armor and tactical gear for AMMA fighters.',
+    status: 'development',
+    url: '#',
+    color: '#9AA0A6',
+  },
+  {
+    id: 'amagi',
+    name: 'Amagi: Legends of the FirstBorne',
+    tagline: 'A cosmic card battler using standard playing cards with optional NFT enhancements. First-born mythology meets strategy.',
+    status: 'development',
+    url: '#',
+    color: '#7B2C8A',
+  },
+  {
+    id: 'nibiru',
+    name: 'Nibiru Chronicles',
+    tagline: 'Add new entries to the cosmic chronicles. An archive of ancient maps, legends, vaults, and lore.',
+    status: 'development',
+    url: '#',
+    color: '#1A4A8A',
+  },
+  {
+    id: 'autostoryboard',
+    name: 'AutoStoryboard Pipeline',
+    tagline: 'Script-to-storyboard, scene by scene. Drop a script, get a visual breakdown automatically.',
+    status: 'development',
+    url: '#',
+    color: '#2D7A3A',
+  },
+  {
+    id: 'runpod-oracle',
+    name: 'RunPod Oracle',
+    tagline: 'Cosmic insights through AI-powered divination. Moonlit dreams, starlit wisdom, mystical realms of knowledge.',
+    status: 'development',
+    url: '#',
+    color: '#5B2D8A',
+  },
+  {
+    id: 'memory-vault',
+    name: 'Memory Vault',
+    tagline: 'Preserve, release, and voice your memories. Public and private memory preservation with voice activation.',
+    status: 'development',
+    url: '#',
+    color: '#8B2A3A',
+  },
+  {
+    id: 'shardsoftheforce',
+    name: 'Shards of the Force',
+    tagline: 'Star Wars fan lore — characters, story, ancient battles, bloodshade roses, and cast announcements.',
+    status: 'development',
+    url: '#',
+    color: '#6B1A1A',
+  },
+]
