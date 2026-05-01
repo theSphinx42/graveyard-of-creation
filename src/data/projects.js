@@ -4,7 +4,7 @@ export const projects = [
     name: 'Nightmare Before AI',
     tagline: 'An evolving fan-series through the warped holidays of imagination. Claymation chaos, AI animation, holiday nightmares.',
     status: 'live',
-    url: '#', // UPDATE after deploy: nightmarebefore-com.vercel.app
+    url: 'https://nightmarebefore-com.vercel.app',
     color: '#C41A1A',
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     name: 'GlyphGirl.tv',
     tagline: 'Decode the signal. Anchor the frequency. Sci-fi ARG spanning glyphs, factions, timelines, and soul coherence.',
     status: 'live',
-    url: '#', // UPDATE after deploy: glyphgirl-tv.vercel.app
+    url: 'https://glyphgirl-tv.vercel.app',
     color: '#008B8B',
   },
   {
@@ -20,16 +20,8 @@ export const projects = [
     name: 'Kingfall',
     tagline: 'Official rules for the 5v5 knockdown combat sport governed by the International Kingfall Association.',
     status: 'live',
-    url: '#', // UPDATE after deploy: kingfall-rules.vercel.app
+    url: 'https://kingfall-rules.vercel.app',
     color: '#C8952A',
-  },
-  {
-    id: 'protacone',
-    name: 'ProtacOne Security',
-    tagline: 'Professional roving and on-site security services in King County. Trusted protection by Bryan Selymes.',
-    status: 'live',
-    url: '#', // UPDATE after deploy: protacone-security.vercel.app
-    color: '#4A7AC8',
   },
   {
     id: 'starforge',
@@ -51,16 +43,16 @@ export const projects = [
     id: 'nibiru',
     name: 'Nibiru Chronicles',
     tagline: 'Add new entries to the cosmic chronicles. An archive of ancient maps, legends, vaults, and lore.',
-    status: 'development',
-    url: '#',
+    status: 'live',
+    url: 'https://nibiru-chronicles.vercel.app',
     color: '#1A4A8A',
   },
   {
-    id: 'autostoryboard',
-    name: 'AutoStoryboard Pipeline',
-    tagline: 'Script-to-storyboard, scene by scene. Drop a script, get a visual breakdown automatically.',
-    status: 'development',
-    url: '#',
+    id: 'screenline',
+    name: 'Screenline',
+    tagline: 'Script-to-storyboard pipeline. Drop a script, split scenes, and get a visual breakdown automatically.',
+    status: 'live',
+    url: 'https://screenline.vercel.app',
     color: '#2D7A3A',
   },
   {
@@ -72,19 +64,19 @@ export const projects = [
     color: '#5B2D8A',
   },
   {
-    id: 'memory-vault',
-    name: 'Memory Vault',
-    tagline: 'Preserve, release, and voice your memories. Public and private memory preservation with voice activation.',
-    status: 'development',
-    url: '#',
-    color: '#8B2A3A',
+    id: 'saphira',
+    name: "Saphira's Memory Sanctuary",
+    tagline: 'A crystalline archive for preserving, voicing, and releasing memories. Public and private remembrance with soul.',
+    status: 'live',
+    url: 'https://saphira-memory-sanctuary.vercel.app',
+    color: '#8B2A5A',
   },
   {
     id: 'shardsoftheforce',
     name: 'Shards of the Force',
     tagline: 'Star Wars fan lore — characters, story, ancient battles, bloodshade roses, and cast announcements.',
-    status: 'development',
-    url: '#',
-    color: '#6B1A1A',
+    status: 'live',
+    url: 'https://shardsoftheforce-tech.vercel.app',
+    color: '#5B1A9A',
   },
 ]
