@@ -451,6 +451,49 @@ a.project-card {
   border-top: 1px solid var(--border-dim);
 }
 
+.footer__ecosystem {
+  display: flex;
+  justify-content: center;
+  gap: 3.5rem;
+  flex-wrap: wrap;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-dim);
+  margin-bottom: 0.5rem;
+  text-align: left;
+}
+
+.footer__link-group {
+  min-width: 160px;
+}
+
+.footer__link-heading {
+  font-family: var(--font-heading);
+  font-size: 0.68rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--gold);
+  opacity: 0.75;
+  margin-bottom: 0.75rem;
+}
+
+.footer__link-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.footer__link {
+  font-size: 0.76rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer__link:hover {
+  color: var(--ember);
+}
+
 .footer__divider {
   height: 1px;
   width: 100px;
