@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 'shardsoftheforce',
     name: 'Shards of the Force',
-    tagline: 'Star Wars fan lore — characters, story, ancient battles, bloodshade roses, and cast announcements.',
+    tagline: 'Original dark science-fantasy cinema — fractured identities, living relics, industrial ruins, bloodshade roses, and mythic conflict.',
     status: 'live',
     url: 'https://shardsoftheforce-tech.vercel.app',
     color: '#5B1A9A',
